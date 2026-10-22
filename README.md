@@ -7,11 +7,11 @@ A curated collection of mathematical problems, proofs, and explorations spanning
 ```
 math-anthology/
 └── IMO/
-    ├── imo-{year}-p{number}.md
-    ├── imo-1959-p1.md
-    ├── imo-1959-p2.md
+    ├── imo-{year}-p{number}.pdf
+    ├── imo-1959-p1.pdf
+    ├── imo-1959-p2.pdf
     └── ...
 ```
 
-Files are named `imo-{year}-p{number}` so they sort lexicographically by year then problem number.
+Files are named `imo-{year}-p{number}.pdf` so they sort lexicographically by year then problem number.
 
